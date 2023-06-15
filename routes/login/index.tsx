@@ -7,11 +7,11 @@ export default function Login() {
         <title>Login</title>
       </Head>
       <div>
-        <button class="btn">
-          <a href="/login/github">
+        <a href="/login/github">
+          <button class="btn">
             Github
-          </a>
-        </button>
+          </button>
+        </a>
       </div>
     </>
   );
