@@ -2,6 +2,8 @@
 
 A super simple _classic_ expense tracker. Built for Deno KV Hackathon 2023.
 
+https://github.com/steveny9911/pocket-change/assets/8460976/9a68c2e9-f0f4-4c4f-8775-8e4b71934bce
+
 # Feature
 
 - Using KV key as search and filter (e.g. storing and searching by date using
