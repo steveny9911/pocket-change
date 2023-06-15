@@ -1,0 +1,20 @@
+{
+  "fmt": {
+    "files": {
+      "exclude": [
+        ".vscode/",
+        "*.json"
+      ]
+    }
+  },
+  "tasks": {
+    "start": "deno run --unstable -A --watch=static/,routes/ dev.ts",
+    "test": "ENV=test deno test --allow-all --unstable",
+    "ok": "deno fmt --check && deno lint && deno check main.ts && deno task test"
+  },
+  "importMap": "./import_map.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  }
+}

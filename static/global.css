@@ -1,0 +1,47 @@
+html, body {
+  font-family: "Inconsolata", Menlo, Chicago, Geneva;
+  font-size: 18px;
+  letter-spacing: -0.025em;
+  min-height: 100vh;
+}
+
+p {
+  margin: 0;
+}
+
+.window {
+  position: sticky;
+  display: flex;
+  height: calc(100vh - 36px);
+}
+
+.center {
+  text-align: center;
+}
+
+.alert-text,
+.dialog-text,
+.modal-text,
+.modeless-text {
+  font-family: Chicago_12;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+.modal-text, .alert-text {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+.field-row {
+  justify-content: space-between;
+}
+
+.field-row label {
+  min-width: 70px;
+}
+
+.field-row input,
+.field-row select {
+  flex-grow: 1;
+}

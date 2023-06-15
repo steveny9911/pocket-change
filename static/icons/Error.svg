@@ -1,0 +1,34 @@
+<svg viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M77 56H71V134H77V56Z" fill="black"/>
+<path d="M77 140H179V134H77V140Z" fill="black"/>
+<path d="M185 134V56H179V134H185Z" fill="black"/>
+<path d="M179 50H77V56H179V50Z" fill="black"/>
+<path d="M59 194V44H53V194H59Z" fill="black"/>
+<path d="M65 38H59V44H65V38Z" fill="black"/>
+<path d="M191 38V32H65V38H191Z" fill="black"/>
+<path d="M197 44V194H203V44H197Z" fill="black"/>
+<path d="M197 38H191V44H197V38Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M59 224H197V194H59V224ZM65 218V200H191V218H65Z" fill="black"/>
+<path d="M71 170V176H83V170H71Z" fill="black"/>
+<path d="M143 164V170H179V164H143Z" fill="black"/>
+<path d="M161 122H155V128H161V122Z" fill="black"/>
+<path d="M143 116V122H155V116H143Z" fill="black"/>
+<path d="M113 110V116H143V110H113Z" fill="black"/>
+<path d="M107 116V122H113V116H107Z" fill="black"/>
+<path d="M131 98H119V104H131V98Z" fill="black"/>
+<path d="M137 98V92H131V98H137Z" fill="black"/>
+<path d="M113 92V98H119V92H113Z" fill="black"/>
+<path d="M107 80V86H113V80H107Z" fill="black"/>
+<path d="M95 80V86H101V80H95Z" fill="black"/>
+<path d="M95 68V74H101V68H95Z" fill="black"/>
+<path d="M113 74V68H107V74H113Z" fill="black"/>
+<path d="M143 80V86H149V80H143Z" fill="black"/>
+<path d="M155 86H161V80H155V86Z" fill="black"/>
+<path d="M161 74V68H155V74H161Z" fill="black"/>
+<path d="M143 68V74H149V68H143Z" fill="black"/>
+<path d="M155 74H149V80H155V74Z" fill="black"/>
+<path d="M107 74H101V80H107V74Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M59 44V194H197V44H191V38H65V44H59ZM185 56V134H179V140H77V134H71V56H77V50H179V56H185ZM71 176V170H83V176H71ZM143 170V164H179V170H143Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77 56V134H179V56H77ZM95 74V68H101V74H107V68H113V74H107V80H113V86H107V80H101V86H95V80H101V74H95ZM143 74V68H149V74H155V68H161V74H155V80H161V86H155V80H149V86H143V80H149V74H143ZM113 98V92H119V98H131V92H137V98H131V104H119V98H113ZM113 110H143V116H155V122H161V128H155V122H143V116H113V122H107V116H113V110Z" fill="white"/>
+<path d="M65 200V218H191V200H65Z" fill="white"/>
+</svg>
