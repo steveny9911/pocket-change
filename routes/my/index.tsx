@@ -111,7 +111,9 @@ export default function Home(props: PageProps<PagePropsType>) {
         <div class="window">
           <div class="title-bar">
             <button aria-label="Close" class="btn close"></button>
-            <h1 class="title">Pocket Change</h1>
+            <h1 class="title">
+              Pocket Change<sup style="font-size: 1rem">*demo</sup>
+            </h1>
             <button aria-label="Resize" class="btn resize"></button>
           </div>
           <div class="details-bar">

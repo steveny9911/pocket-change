@@ -12,7 +12,9 @@ export default function Home(props: PageProps<State>) {
   return (
     <>
       <Head href={props.url.href}>
-        <title>Pocket Change</title>
+        <title>
+          Pocket Change<sup style="font-size: 1rem">*demo</sup>
+        </title>
       </Head>
       <div style="display: flex; justify-content: right;">
         {props.data.sessionId
@@ -38,7 +40,7 @@ export default function Home(props: PageProps<State>) {
       </div>
 
       <div style="display: flex; justify-content: right;">
-        <a href="">
+        <a href="https://github.com/steveny9911/pocket-change">
           <button class="btn">
             Github
           </button>
